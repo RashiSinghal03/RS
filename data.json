@@ -95,10 +95,10 @@
   },
   "profile": {
     "name": "Rashi Singhal",
-    "image": "https://photos.google.com/search/_cAF1QipOW65ARWq32Aa8GzElHue41XcWjQU3FRuA_Rashi%20Singhal/photo/AF1QipM52JtI7B2Z0WvKcEbF8gwIL4zDDPeyBOc05kZi",
+    "image": "https://drive.google.com/file/d/1vIOVVdsp_qzSih__nqp9M3hlnhHBGjZs/view?usp=sharing",
     "domains": "Law Student | Data Science Enthusiast",
     "vision": "er",
-    "url": "https://shivsinghal.github.io",
+    "url": "https://rashisinghal.github.io",
     "address": {
         "@type": "PostalAddress",
         "streetAddress": "Delhi",
@@ -130,7 +130,7 @@
       "name": "email",
       "url": "#",
       "icon": "fas fa-inbox",
-      "label": "shivsinghal53[at]gmail.com"
+      "label": "singhal.rashi33@gmail.com"
     }, {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/shiv-singhal/",
@@ -138,9 +138,9 @@
       "label": "linkedin.com/in/shiv-singhal/"
     }, {
        "name": "github",
-      "url": "https://github.com/shivsinghal",
+      "url": "https://github.com/RashiSinghal03",
       "icon": "fab fa-github",
-      "label": "github/shivsinghal"
+      "label": "github/rashisinghal"
     }]
   },
   "work": [
