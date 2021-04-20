@@ -2,7 +2,7 @@
   "document": {
     "author": "Rashi Singhal",
     "title": "Rashi Singhal",
-    "keywords": "Rashi Singhal rashisinghal Law Student Resume CV.",
+    "keywords": "Rashi Singhal rashisinghal Lawyer Resume CV.",
     "description": "Figuring it out one day at a time",
     "language": "English",
     "charset": "utf-8",
@@ -10,7 +10,7 @@
     "theme": 4
   },
   "og": {
-    "title": "Rashi Singhal",
+    "title": "Shiv Singhal",
     "type": "website",
     "url": "https://rashisinghal03.github.io/RS/",
     "image": "#"
@@ -89,15 +89,15 @@
     "icon": "fa fa-link"
   }],
   "home": {
-    "title": "Rashi Singhal",
+    "title": "Shiv Singhal",
     "body": " <Br><BR> ",
-    "signature": "Regards <br> <b>Rashi Singhal</b>"
+    "signature": "Regards <br> <b>Shiv Singhal</b>"
   },
   "profile": {
-    "name": "Rashi Singhal",
-    "image": "https://drive.google.com/file/d/16u0ea2PB9FBKjfPQG8HW2TbnONuK7YF9/view?usp=sharing",}
-    "domains": "Law Student | Data Science Enthusiast",
-    "vision": "Don't quit before the miracle happens",
+    "name": "Shiv Singhal",
+    "image": "https://drive.google.com/uc?id=1YSmtqKHH6J0J0jgO0SexaNYG5WWoleU_",
+    "domains": "Tax Lawyer | Business Enthusiast",
+    "vision": "Dabbling this and that!",
     "url": "https://rashisinghal03.github.io/RS/",
     "address": {
         "@type": "PostalAddress",
@@ -107,17 +107,17 @@
         "postalCode": "110075",
         "addressCountry": "India"
     },
-    "email": "mailto:singhal.rashi33@gmail.com",
-    "studentOf": "GGSIPU",
+    "email": "mailto:shivsinghal53@gmail.com",
+    "alumniOf": "GGSIPU",
     "birthPlace": "New Delhi, India",
-    "birthDate": "2000.03.03",
-	"gender": "female",
-    "nationality": "Indian",
+    "birthDate": "1998.05.03",
+	"gender": "male",
+    "nationality": "",
     "sameAs":[
-      "https://www.linkedin.com/in/rashi-singhal/"],
+      "https://www.linkedin.com/in/shiv-singhal/"],
     "link": [{
-      "name": "CV",
-      "url": "https://drive.google.com/file/d/1ygjOQhWIwY3Hw3AKWrYJe8484ruqSSv-/view?usp=sharing",
+      "name": "resume",
+      "url": "https://drive.google.com/open?id=1lpCi1r_DAqtBnim0p1GB6XahwKeVESeY",
       "icon": "fas fa-file",
       "label": "CV"
     }, {
@@ -130,17 +130,17 @@
       "name": "email",
       "url": "#",
       "icon": "fas fa-inbox",
-      "label": "singhal.rashi33@gmail.com"
+      "label": "shivsinghal53[at]gmail.com"
     }, {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/rashi-singhal/",
+      "url": "https://www.linkedin.com/in/shiv-singhal/",
       "icon": "fab fa-linkedin-in",
-      "label": "linkedin.com/in/rashi-singhal/"
+      "label": "linkedin.com/in/shiv-singhal/"
     }, {
        "name": "github",
-      "url": "https://github.com/RashiSinghal03",
+      "url": "https://github.com/shivsinghal",
       "icon": "fab fa-github",
-      "label": "github/rashisinghal"
+      "label": "github/shivsinghal"
     }]
   },
   "work": [
