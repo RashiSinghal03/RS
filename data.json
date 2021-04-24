@@ -114,7 +114,7 @@
 	"gender": "female",
     "nationality": "Indian",
     "sameAs":[
-      "https://www.linkedin.com/in/shiv-singhal/"],
+      "https://www.linkedin.com/in/rashi-singhal/"],
     "link": [{
       "name": "cv",
       "url": "https://drive.google.com/file/d/1ygjOQhWIwY3Hw3AKWrYJe8484ruqSSv-/view?usp=sharing",
@@ -133,9 +133,9 @@
       "label": "singhal.rashi33[at]gmail.com"
     }, {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/shiv-singhal/",
+      "url": "https://www.linkedin.com/in/rashi-singhal/",
       "icon": "fab fa-linkedin-in",
-      "label": "linkedin.com/in/shiv-singhal/"
+      "label": "linkedin.com/in/rashi-singhal/"
     }, {
        "name": "github",
       "url": "https://github.com/shivsinghal",
