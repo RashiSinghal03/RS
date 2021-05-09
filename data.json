@@ -145,51 +145,6 @@
   },
   "work": [
     {
-     "id":14,
-     "key": "wo11",
-     "companyName": "J. Sagar Associates",
-     "companyUrl": "https://www.jsalaw.com/",
-     "role":"Associate",
-     "location": "Gurugram, India",
-     "timeline": "03/2021 - Present",
-     "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-    }, {
-     "id":13,
-     "key": "wo11",
-     "companyName": "J. Sagar Associates",
-     "companyUrl": "https://www.jsalaw.com/",
-     "role":"Junior Associate",
-     "location": "Gurugram, India",
-     "timeline": "09/2020 - 02/2021",
-     "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-    },{
-     "id":12,
-     "key": "wo11",
-     "companyName": "J. Sagar Associates",
-     "companyUrl": "https://www.jsalaw.com/",
-     "role":"Permanent Intern",
-     "location": "Gurugram, India",
-     "timeline": "06/2020 - 08/2020",
-     "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-    },{
-    "id":11,
-    "key": "wo11",
-    "companyName": "J. Sagar Associates",
-    "companyUrl": "https://www.jsalaw.com/",
-    "role":"Legal Intern",
-    "location": "Gurugram, India",
-    "timeline": "02/2020 - 05/2020",
-    "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-  },{
-    "id":10,
-    "key": "wo10",
-    "companyName": "Economic Law Practice",
-    "companyUrl": "https://elplaw.in/",
-    "role":"Legal Intern",
-    "location": "Delhi, India",
-    "timeline": "01/2020 - 1/2020",
-    "about": "Competition, Trade and Indirect Tax and Disputes Team - Assisted in the following matters:<br>- A report on “Digital Companies and Abuse of Dominance”; </br><br> - WTO Dispute of India; </br><br>- Compliance Sheet for PDP Bill, 2019;</br><br>- Report on “Model: Selecting regulation for Mediation”;</br><br>- E-commerce & Competition </br>"
-  },{
     "id": 9,
     "key": "wo9",
     "companyName": "Khaitan & Co.",
