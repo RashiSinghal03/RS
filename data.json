@@ -145,60 +145,21 @@
   },
   "work": [
     {
-     "id":14,
+     "id": 9,
      "key": "wo11",
-     "companyName": "J. Sagar Associates",
-     "companyUrl": "https://www.jsalaw.com/",
-     "role":"Associate",
-     "location": "Gurugram, India",
-     "timeline": "03/2021 - Present",
-     "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
+     "companyName": "UKCA and Partners",
+     "companyUrl": "https://www.ukca.in/",
+     "role":"Legal Intern",
+     "location": "Delhi, India",
+     "timeline": "03/2021 - 03/2021",
+     "about": "- Researched in matters under the various acts and regulations such as the Companies Act 2013, Competition Act, 2002, SARFAESI Act, 2002, MSMED Act, 2006, Insolvency and Bankruptcy Code, 2016 and Arbitration and Conciliation Act, 1996
+     <br>
+<<<<<<< HEAD
+     - Drafted statement of facts, analysis on the powers of the NCLT, case notes on various judgements relating to section 3, 4 & 27 of the Competition Act, 2002, section 2(1)(e), 9, 11 & 42 of the Arbitration and Conciliation Act, 1996, MSMED Act, 2006, Insolvency and Bankruptcy Code, 2016.<br>"
+=======
+     - Drafted statement of facts, analysis on the powers of the NCLT, case notes on various judgements relating to section 3, 4 & 27 of the Competition Act, 2002, section 2(1)(e), 9, 11 & 42 of the Arbitration and Conciliation Act, 1996, MSMED Act, 2006, Insolvency and Bankruptcy Code, 2016."
+>>>>>>> f178e863a13ceb078528b0466ae4117afff2cdc6
     }, {
-     "id":13,
-     "key": "wo11",
-     "companyName": "J. Sagar Associates",
-     "companyUrl": "https://www.jsalaw.com/",
-     "role":"Junior Associate",
-     "location": "Gurugram, India",
-     "timeline": "09/2020 - 02/2021",
-     "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-    },{
-     "id":12,
-     "key": "wo11",
-     "companyName": "J. Sagar Associates",
-     "companyUrl": "https://www.jsalaw.com/",
-     "role":"Permanent Intern",
-     "location": "Gurugram, India",
-     "timeline": "06/2020 - 08/2020",
-     "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-    },{
-    "id":11,
-    "key": "wo11",
-    "companyName": "J. Sagar Associates",
-    "companyUrl": "https://www.jsalaw.com/",
-    "role":"Legal Intern",
-    "location": "Gurugram, India",
-    "timeline": "02/2020 - 05/2020",
-    "about": "Direct Tax Team - Corporate Tax, M&A Tax and International Tax"
-  },{
-    "id":10,
-    "key": "wo10",
-    "companyName": "Economic Law Practice",
-    "companyUrl": "https://elplaw.in/",
-    "role":"Legal Intern",
-    "location": "Delhi, India",
-    "timeline": "01/2020 - 1/2020",
-    "about": "Competition, Trade and Indirect Tax and Disputes Team - Assisted in the following matters:<br>- A report on “Digital Companies and Abuse of Dominance”; </br><br> - WTO Dispute of India; </br><br>- Compliance Sheet for PDP Bill, 2019;</br><br>- Report on “Model: Selecting regulation for Mediation”;</br><br>- E-commerce & Competition </br>"
-  },{
-    "id": 9,
-    "key": "wo9",
-    "companyName": "Khaitan & Co.",
-    "companyUrl": "https://www.khaitanco.com/",
-    "role": "Legal Intern",
-    "location": "Delhi, India",
-    "timeline": "10/2019 - 10/2019",
-    "about": "- Disputes and Direct Tax Advisory Team <br> (a) Drafted - </br><br>-List of dates for claims in various arbitrations</br><br>-Research Notes on various Arbitration Awards and judgements </br><br>(b) Researched on- </br>Various research propositions for arbitrations such as the effect of mutual delay on liquidated damages, Consolidation of arbitrations etc.</br><br>- Various research proposition for International taxation matters such as Article 15 DTAA Apportionment principle, Interpretative value of OECD Commentary etc.</br><br>- Various research proposition for Direct Tax Advisory relating to Section 9 (Service rendered in India), Section 153A, Section 149 etc</br><br>(c) Attended IBC hearings at NCLT</br><br>(d) Submitted a research assignment -'Tax Challenges in Digital Economy'</br>"
-  }, {
     "id": 8,
     "key": "wo8",
     "companyName": "Directorate General of Trade Remedies (DGTR), Ministry of Commerce",
@@ -433,14 +394,13 @@
     "timeline": "Till 05/2015",
     "coursework": {
       "activities": [
-        "2015 | Student Council"
-        "2015 | Peer Educator"
+        "2012 | The green olympiad"
       ],
       "achievements": [
-        "2015"
+        "2013 | 2nd | Inter school festival"
       ],
       "awards": [
-        "2015"
+        "2014-2015 | Excellence in Dramatics"
       ]
     }
   }
